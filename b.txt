@@ -1,1 +1,1 @@
-echo 'hello world';
+echo2 'hello world';
